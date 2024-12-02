@@ -6,5 +6,3 @@ export function aleatorio (lista){
 }
 
 export const nome = aleatorio(nomes)
-
-
