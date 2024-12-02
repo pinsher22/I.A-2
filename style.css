@@ -52,7 +52,7 @@ button:hover{
         display:flex;
         flex-direction: column;
         gap: 10px;
-    }
+}
 
 .caixa-perguntas{
     padding-bottom: 10px;
