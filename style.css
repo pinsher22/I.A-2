@@ -43,11 +43,11 @@ button:hover{
 
     .caixa-resultado{
         display: none;
-    }
+}
 
     .caixa-resultado.mostrar{
         display:block;
-    }
+}
 
 .caixa-perguntas{
     padding-bottom: 10px;
