@@ -1,7 +1,7 @@
 :root{
     --cor-fundo: #000000;
-    --cor-principal: #003d0f ;
-    --cor-secundaria: #00d10a;
+    --cor-principal: #000000 ;
+    --cor-secundaria: #00b609;
     --cor-destaque: #00ac39;
     --cor-texto: #ffffff;
 }
@@ -48,6 +48,11 @@ button:hover{
     .caixa-resultado.mostrar{
         display:block;
 }
+    .caixa-alternativa{
+        display:flex;
+        flex-direction: column;
+        gap: 10px;
+    }
 
 .caixa-perguntas{
     padding-bottom: 10px;
